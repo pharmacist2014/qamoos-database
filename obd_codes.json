@@ -1,0 +1,144 @@
+[
+  {
+    "code": "P0300",
+    "description": "Random Misfire",
+    "arabic": "تقطيع عشوائي في المحرك",
+    "causes": [
+      "بواجي",
+      "كويلات",
+      "بخاخات"
+    ],
+    "parts": [
+      "بواجي",
+      "كويلات",
+      "بخاخات"
+    ]
+  },
+  {
+    "code": "P0301",
+    "description": "Cylinder 1 Misfire",
+    "arabic": "تقطيع في السلندر رقم 1",
+    "causes": [
+      "بوجي",
+      "كويل",
+      "بخاخ"
+    ],
+    "parts": [
+      "بوجي",
+      "كويل",
+      "بخاخ"
+    ]
+  },
+  {
+    "code": "P0420",
+    "description": "Catalyst Efficiency Below Threshold",
+    "arabic": "ضعف كفاءة دبة التلوث",
+    "causes": [
+      "حساس O2",
+      "دبة التلوث",
+      "تهريب عادم"
+    ],
+    "parts": [
+      "حساس أكسجين",
+      "دبة تلوث"
+    ]
+  },
+  {
+    "code": "P0171",
+    "description": "System Too Lean",
+    "arabic": "خليط هواء ووقود فقير",
+    "causes": [
+      "تهريب هواء",
+      "حساس MAF",
+      "طرمبة بنزين"
+    ],
+    "parts": [
+      "حساس MAF",
+      "طرمبة بنزين",
+      "ليات هواء"
+    ]
+  },
+  {
+    "code": "P0172",
+    "description": "System Too Rich",
+    "arabic": "خليط وقود غني",
+    "causes": [
+      "بخاخات",
+      "حساس MAF",
+      "ضغط وقود"
+    ],
+    "parts": [
+      "بخاخات",
+      "حساس MAF"
+    ]
+  },
+  {
+    "code": "P0115",
+    "description": "Coolant Temperature Sensor",
+    "arabic": "خلل حساس حرارة ماء المحرك",
+    "causes": [
+      "حساس حرارة",
+      "أسلاك",
+      "ماء"
+    ],
+    "parts": [
+      "حساس حرارة ماء"
+    ]
+  },
+  {
+    "code": "P0128",
+    "description": "Coolant Thermostat",
+    "arabic": "الثرموستات لا يصل للحرارة المناسبة",
+    "causes": [
+      "ثرموستات",
+      "حساس حرارة"
+    ],
+    "parts": [
+      "ثرموستات",
+      "حساس حرارة"
+    ]
+  },
+  {
+    "code": "P0562",
+    "description": "System Voltage Low",
+    "arabic": "جهد كهربائي منخفض",
+    "causes": [
+      "بطارية",
+      "دينمو",
+      "أرضي"
+    ],
+    "parts": [
+      "بطارية",
+      "دينمو"
+    ]
+  },
+  {
+    "code": "P0700",
+    "description": "Transmission Control System",
+    "arabic": "خلل في نظام القير",
+    "causes": [
+      "حساس قير",
+      "بلف بدي",
+      "زيت قير"
+    ],
+    "parts": [
+      "حساس قير",
+      "زيت قير",
+      "بلف بدي"
+    ]
+  },
+  {
+    "code": "P0440",
+    "description": "EVAP System",
+    "arabic": "خلل نظام تبخير الوقود",
+    "causes": [
+      "غطاء بنزين",
+      "ليات تبخير",
+      "بلف EVAP"
+    ],
+    "parts": [
+      "غطاء بنزين",
+      "بلف EVAP"
+    ]
+  }
+]
