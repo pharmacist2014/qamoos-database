@@ -1,0 +1,107 @@
+[
+  {
+    "vehicle_id": "NISSAN_SUNNY_N18_GCC",
+    "make": "NISSAN",
+    "model": "SUNNY",
+    "generation": "N18",
+    "market": "GCC/SA",
+    "year_from": 2020,
+    "year_to": 2026,
+    "engine_notes": [
+      "1.6L"
+    ],
+    "verification": "vin_required"
+  },
+  {
+    "vehicle_id": "NISSAN_ALTIMA_L34_GCC",
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "generation": "L34",
+    "market": "GCC/SA",
+    "year_from": 2019,
+    "year_to": 2026,
+    "engine_notes": [
+      "2.5L",
+      "VC-Turbo varies by market"
+    ],
+    "verification": "vin_required"
+  },
+  {
+    "vehicle_id": "NISSAN_XTRAIL_T33_GCC",
+    "make": "NISSAN",
+    "model": "X-TRAIL",
+    "generation": "T33",
+    "market": "GCC/SA",
+    "year_from": 2023,
+    "year_to": 2026,
+    "engine_notes": [
+      "2.5L"
+    ],
+    "verification": "vin_required"
+  },
+  {
+    "vehicle_id": "NISSAN_PATROL_Y62_GCC",
+    "make": "NISSAN",
+    "model": "PATROL",
+    "generation": "Y62",
+    "market": "GCC/SA",
+    "year_from": 2010,
+    "year_to": 2024,
+    "engine_notes": [
+      "V6/V8 varies"
+    ],
+    "verification": "vin_required"
+  },
+  {
+    "vehicle_id": "NISSAN_KICKS_P15_GCC",
+    "make": "NISSAN",
+    "model": "KICKS",
+    "generation": "P15",
+    "market": "GCC/SA",
+    "year_from": 2017,
+    "year_to": 2024,
+    "engine_notes": [
+      "1.6L"
+    ],
+    "verification": "vin_required"
+  },
+  {
+    "vehicle_id": "NISSAN_PATHFINDER_R53_GCC",
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "generation": "R53",
+    "market": "GCC/SA",
+    "year_from": 2022,
+    "year_to": 2026,
+    "engine_notes": [
+      "3.5L"
+    ],
+    "verification": "vin_required"
+  },
+  {
+    "vehicle_id": "NISSAN_MAXIMA_A36_GCC",
+    "make": "NISSAN",
+    "model": "MAXIMA",
+    "generation": "A36",
+    "market": "GCC/SA",
+    "year_from": 2016,
+    "year_to": 2023,
+    "engine_notes": [
+      "3.5L"
+    ],
+    "verification": "vin_required"
+  },
+  {
+    "vehicle_id": "NISSAN_NAVARA_D23_GCC",
+    "make": "NISSAN",
+    "model": "NAVARA",
+    "generation": "D23",
+    "market": "GCC/SA",
+    "year_from": 2016,
+    "year_to": 2026,
+    "engine_notes": [
+      "2.5L/2.3D varies"
+    ],
+    "verification": "vin_required"
+  }
+]
