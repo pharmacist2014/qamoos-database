@@ -1,107 +1,72 @@
 [
   {
-    "vehicle_id": "NISSAN_SUNNY_N18_GCC",
-    "make": "NISSAN",
-    "model": "SUNNY",
-    "generation": "N18",
-    "market": "GCC/SA",
-    "year_from": 2020,
-    "year_to": 2026,
-    "engine_notes": [
-      "1.6L"
-    ],
-    "verification": "vin_required"
+    "brand": "Nissan",
+    "model": "Sunny",
+    "years": "2020-2026",
+    "market": "GCC/KSA",
+    "code": "N18"
   },
   {
-    "vehicle_id": "NISSAN_ALTIMA_L34_GCC",
-    "make": "NISSAN",
-    "model": "ALTIMA",
-    "generation": "L34",
-    "market": "GCC/SA",
-    "year_from": 2019,
-    "year_to": 2026,
-    "engine_notes": [
-      "2.5L",
-      "VC-Turbo varies by market"
-    ],
-    "verification": "vin_required"
+    "brand": "Nissan",
+    "model": "Altima",
+    "years": "2019-2026",
+    "market": "GCC/KSA",
+    "code": "L34"
   },
   {
-    "vehicle_id": "NISSAN_XTRAIL_T33_GCC",
-    "make": "NISSAN",
-    "model": "X-TRAIL",
-    "generation": "T33",
-    "market": "GCC/SA",
-    "year_from": 2023,
-    "year_to": 2026,
-    "engine_notes": [
-      "2.5L"
-    ],
-    "verification": "vin_required"
+    "brand": "Nissan",
+    "model": "X-Trail",
+    "years": "2021-2026",
+    "market": "GCC/KSA",
+    "code": "T33"
   },
   {
-    "vehicle_id": "NISSAN_PATROL_Y62_GCC",
-    "make": "NISSAN",
-    "model": "PATROL",
-    "generation": "Y62",
-    "market": "GCC/SA",
-    "year_from": 2010,
-    "year_to": 2024,
-    "engine_notes": [
-      "V6/V8 varies"
-    ],
-    "verification": "vin_required"
+    "brand": "Nissan",
+    "model": "Patrol",
+    "years": "2010-2026",
+    "market": "GCC/KSA",
+    "code": "Y62"
   },
   {
-    "vehicle_id": "NISSAN_KICKS_P15_GCC",
-    "make": "NISSAN",
-    "model": "KICKS",
-    "generation": "P15",
-    "market": "GCC/SA",
-    "year_from": 2017,
-    "year_to": 2024,
-    "engine_notes": [
-      "1.6L"
-    ],
-    "verification": "vin_required"
+    "brand": "Nissan",
+    "model": "Kicks",
+    "years": "2017-2026",
+    "market": "GCC/KSA",
+    "code": "P15"
   },
   {
-    "vehicle_id": "NISSAN_PATHFINDER_R53_GCC",
-    "make": "NISSAN",
-    "model": "PATHFINDER",
-    "generation": "R53",
-    "market": "GCC/SA",
-    "year_from": 2022,
-    "year_to": 2026,
-    "engine_notes": [
-      "3.5L"
-    ],
-    "verification": "vin_required"
+    "brand": "Nissan",
+    "model": "Pathfinder",
+    "years": "2022-2026",
+    "market": "GCC/KSA",
+    "code": "R53"
   },
   {
-    "vehicle_id": "NISSAN_MAXIMA_A36_GCC",
-    "make": "NISSAN",
-    "model": "MAXIMA",
-    "generation": "A36",
-    "market": "GCC/SA",
-    "year_from": 2016,
-    "year_to": 2023,
-    "engine_notes": [
-      "3.5L"
-    ],
-    "verification": "vin_required"
+    "brand": "Toyota",
+    "model": "Camry",
+    "years": "2018-2026",
+    "market": "GCC/KSA",
+    "code": "XV70/XV80"
   },
   {
-    "vehicle_id": "NISSAN_NAVARA_D23_GCC",
-    "make": "NISSAN",
-    "model": "NAVARA",
-    "generation": "D23",
-    "market": "GCC/SA",
-    "year_from": 2016,
-    "year_to": 2026,
-    "engine_notes": [
-      "2.5L/2.3D varies"
-    ],
-    "verification": "vin_required"
+    "brand": "Toyota",
+    "model": "Corolla",
+    "years": "2020-2026",
+    "market": "GCC/KSA",
+    "code": "E210"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "years": "2021-2026",
+    "market": "GCC/KSA",
+    "code": "NX4"
+  },
+  {
+    "brand": "Kia",
+    "model": "Sportage",
+    "years": "2022-2026",
+    "market": "GCC/KSA",
+    "code": "NQ5"
   }
 ]
