@@ -1,4 +1,16 @@
 {
-  "primary_file": "parts_master.json",
-  "note": "OEM UNKNOWN values must be verified through VIN or official catalogue before selling."
+  "version": "2.1",
+  "primary_file": "database_v2/parts_master.json",
+  "search_fields": [
+    "arabic_name",
+    "english_name",
+    "oem",
+    "brand",
+    "model",
+    "generation",
+    "keywords",
+    "category"
+  ],
+  "max_results": 30,
+  "note": "Parts with UNKNOWN OEM need verification before selling."
 }
