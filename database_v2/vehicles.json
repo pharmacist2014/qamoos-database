@@ -1,0 +1,66 @@
+[
+  {
+    "brand": "Nissan",
+    "model": "Sunny",
+    "generation": "N18",
+    "year_from": 2020,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Altima",
+    "generation": "L34",
+    "year_from": 2019,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Patrol",
+    "generation": "Y62",
+    "year_from": 2010,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  },
+  {
+    "brand": "Nissan",
+    "model": "X-Trail",
+    "generation": "T33",
+    "year_from": 2023,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Kicks",
+    "generation": "P15",
+    "year_from": 2020,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Pathfinder",
+    "generation": "R53",
+    "year_from": 2022,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Navara",
+    "generation": "D23",
+    "year_from": 2016,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Urvan",
+    "generation": "E26",
+    "year_from": 2012,
+    "year_to": 2026,
+    "market": "GCC/Saudi"
+  }
+]
